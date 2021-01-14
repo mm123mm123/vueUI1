@@ -1,6 +1,5 @@
 <template>
-  app组件
-  <Frank/>
+  <router-view/>
 </template>
 
 <script>

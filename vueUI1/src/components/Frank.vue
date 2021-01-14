@@ -1,5 +1,3 @@
 <template>
-  <div>
-    Frank
-  </div>
+  <router-link to="/">Frank</router-link>
 </template>
