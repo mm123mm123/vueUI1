@@ -11,16 +11,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="317ddc7a-ec65-462a-97e1-9c117969a548" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vueUI1/src/components/TopNav.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueUI1/src/views/Doc.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueUI1/src/components/Button.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueUI1/src/components/Dialog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueUI1/src/components/DocDemo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueUI1/src/components/Switch.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueUI1/src/components/Tabs.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vueUI1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vueUI1/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vueUI1/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vueUI1/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vueUI1/src/components/Frank.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vueUI1/src/views/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vueUI1/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vueUI1/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/vueUI1/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueUI1/src/components/TopNav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vueUI1/src/components/TopNav.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueUI1/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/vueUI1/src/index.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vueUI1/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vueUI1/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vueUI1/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/vueUI1/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueUI1/src/views/Doc.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vueUI1/src/views/Doc.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vueUI1/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vueUI1/src/views/Home.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +65,9 @@
       <workItem from="1610595180473" duration="1543000" />
       <workItem from="1610610506224" duration="6444000" />
       <workItem from="1610623994589" duration="10000" />
-      <workItem from="1610627273445" duration="304000" />
+      <workItem from="1610627273445" duration="4131000" />
+      <workItem from="1610676569887" duration="5514000" />
+      <workItem from="1610698328705" duration="5414000" />
     </task>
     <task id="LOCAL-00001" summary="初始化项目">
       <created>1610594331747</created>
@@ -79,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610611707410</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="新建Home,Doc,TopNav组件">
+      <created>1610627872507</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610627872507</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,9 +111,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化项目" />
     <MESSAGE value="添加路由功能" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加路由功能" />
+    <MESSAGE value="新建Home,Doc,TopNav组件" />
+    <option name="LAST_COMMIT_MESSAGE" value="新建Home,Doc,TopNav组件" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="156" y="302" key="#Notifications" timestamp="1610627912769">
+      <screen x="0" y="0" width="1645" height="960" />
+    </state>
+    <state x="156" y="302" key="#Notifications/0.0.1645.960@0.0.1645.960" timestamp="1610627912769" />
     <state x="959" y="275" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610612235546">
       <screen x="0" y="0" width="1645" height="960" />
     </state>
@@ -115,5 +131,13 @@
       <screen x="0" y="0" width="1645" height="960" />
     </state>
     <state x="992" y="235" key="FileChooserDialogImpl/0.0.1645.960@0.0.1645.960" timestamp="1610594162347" />
+    <state x="71" y="227" key="run.anything.popup" timestamp="1610631490157">
+      <screen x="0" y="0" width="1645" height="960" />
+    </state>
+    <state x="71" y="227" key="run.anything.popup/0.0.1645.960@0.0.1645.960" timestamp="1610631490157" />
+    <state x="77" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1610631524312">
+      <screen x="0" y="0" width="1645" height="960" />
+    </state>
+    <state x="77" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1645.960@0.0.1645.960" timestamp="1610631524312" />
   </component>
 </project>
